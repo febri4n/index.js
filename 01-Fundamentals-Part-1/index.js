@@ -1,4 +1,3 @@
-/*
 const now = 2037;
 const ageJonas = now - 1991;
 const ageSarah = now - 2020;
@@ -242,4 +241,3 @@ if (age >= 18) {
 console.log(drink2);
 
 console.log(`I like to drink ${age >= 18 ? "wine" : "water"}`);
-*/
